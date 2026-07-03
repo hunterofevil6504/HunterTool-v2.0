@@ -18,5 +18,5 @@ bash setup.sh
 
 
 çalıştırma kodu:
-cd ~/hunter-tool
+cd ~/HunterTool-v2.0
 bash hunter.sh
